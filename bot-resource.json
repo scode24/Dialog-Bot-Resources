@@ -1,0 +1,45 @@
+{
+  "language": "en",
+  "intents-data": {
+    "msg.hello": {
+      "query": ["Hello!", "Good morning!", "Hey!", "Hi!", "Greetings!"],
+      "response": [
+        "Hi there!",
+        "Hello! How can I assist you?",
+        "Hey! What's up?",
+        "Hello! How may I help you?",
+        "Greetings! Ready to get started?"
+      ]
+    },
+
+    "msg.bye": {
+      "query": [
+        "Goodbye!",
+        "Farewell!",
+        "See you later!",
+        "Take care!",
+        "Until we meet again!"
+      ],
+      "response": [
+        "Goodbye!",
+        "Farewell! Take care.",
+        "See you later, alligator!",
+        "You too, take care!",
+        "Until next time!"
+      ]
+    },
+
+    "msg.about": {
+      "query": [
+        "Tell me about your experience.",
+        "What skills do you have?",
+        "Can you describe your expertise?",
+        "What's your background?",
+        "Tell me about yourself."
+      ],
+      "response": [
+        "With a robust background spanning 9.5 years in software development, I have honed my expertise in Java backend development, specializing in microservices architecture and cloud technologies. Over the past 2+ years, I have expanded my skill set to encompass full-stack development, demonstrating proficiency in Angular, React, Java, and the MERN (MongoDB, Express.js, React, Node.js) stack. My keen interest extends to the realms of artificial intelligence and machine learning, reflecting a commitment to staying at the forefront of emerging technologies. This multifaceted experience positions me as a versatile and forward-thinking professional in the dynamic field of software development."
+      ]
+    }
+  }
+}
