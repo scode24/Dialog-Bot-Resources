@@ -112,7 +112,7 @@
 
     "msg.skills": {
       "query": [
-        "What are your skills?",
+        "What are your skills / skillset?",
         "Tell me about your expertise.",
         "What skills do you possess?",
         "Can you list your technical abilities?",
@@ -142,7 +142,7 @@
 
     "msg.achievements": {
       "query": [
-        "What are your achievements?",
+        "What are your achievements or awards?",
         "Tell me about your accomplishments.",
         "Can you share your notable achievements?",
         "What have you achieved?",
