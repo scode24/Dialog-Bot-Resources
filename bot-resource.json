@@ -14,6 +14,7 @@
 
     "msg.bye": {
       "query": [
+        "bye",
         "Goodbye!",
         "Farewell!",
         "See you later!",
@@ -21,11 +22,11 @@
         "Until we meet again!"
       ],
       "response": [
-        "Goodbye!",
-        "Farewell! Take care.",
-        "See you later, alligator!",
-        "You too, take care!",
-        "Until next time!"
+        "Goodbye!<endconn>",
+        "Farewell! Take care.<endconn>",
+        "See you later, alligator!<endconn>",
+        "You too, take care!<endconn>",
+        "Until next time!<endconn>"
       ]
     },
 
