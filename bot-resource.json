@@ -61,11 +61,11 @@
 
     "msg.social_links": {
       "query": [
-        "What are your social links?",
-        "Can you share your social profiles?",
-        "How can I find you on social media?",
-        "Where can I connect with you online?",
-        "Do you have any social media accounts?"
+        "What are your social links like linked in, github, mail etc?",
+        "Can you share your social profiles  like linked in, github, mail etc?",
+        "How can I find you on social media  like linked in, github, mail etc?",
+        "Where can I connect with you online  like linked in, github, mail etc?",
+        "Do you have any social media accounts  like linked in, github, mail etc?"
       ],
       "response": [
         "You can find me on various social media platforms: Github(https://github.com/scode24), LinkedIn(https://www.linkedin.com/in/soumyabrata-sarkar/), Mail(mailto:soumyabrata024@gmail.com)",
