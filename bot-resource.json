@@ -159,11 +159,12 @@
 
     "msg.whatcantell": {
       "query": [
-          "Could you provide information on?",
+          "What can you say ?",
           "What information do you have about?",
-          "Can you share details regarding?",
+          "You share details regarding?",
           "I'd like to know about?",
-          "What insights can you offer on?"
+          "What insights can you offer on?",
+          "What can you do ?"
       ],
       "response": [
         "Dialog Bot can answer queries about following information about Soumyabrata Sarkar - personal details, contact details, social links, address information, skillsets, achievements, qualifications"
