@@ -155,6 +155,19 @@
       "response": [
         "I received the Manager's Choice Award for Restlessly Reinvent IBM and Ourselves from IBM. I was honored with the Manager's Choice Award for Put the Client First, Deep Skill Adder Award by IBM. I was recognized with the Project Star award from Capgemini. I received the Surge Award from Thomson Reuters."
       ]
+    },
+
+    "msg.whatcantell": {
+      "query": [
+          "Could you provide information on?",
+          "What information do you have about?",
+          "Can you share details regarding?",
+          "I'd like to know about?",
+          "What insights can you offer on?"
+      ],
+      "response": [
+        "Dialog Bot can answer queries about following information about Soumyabrata Sarkar - personal details, contact details, social links, address information, skillsets, achievements, qualifications"
+      ]
     }
   }
 }
